@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Book Fetish
+title: Engineers Against Entropy
 ---
 
 ## Goals
